@@ -26,12 +26,6 @@ The dataset contains retail grocery sales information including:
 - Fat Content
 - Establishment Year
 
-## 📈 Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
----
-
 ## 📊 Key KPIs
 
 - Total Sales
